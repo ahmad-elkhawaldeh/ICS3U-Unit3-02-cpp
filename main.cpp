@@ -19,7 +19,7 @@ int main() {
 
     //process
 if ( input_number == RANDOM_NUMBER) {
-        //output
-        std::cout << "correct (: ";
+    //output
+    std::cout << "correct (: ";
     }
 }
